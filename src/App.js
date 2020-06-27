@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>React App One</h1>
-      <p>some para Gaurav1</p>
+      <p>some para Gaurav2</p>
     </div>
   );
 }
